@@ -1,5 +1,4 @@
-//Emma Moreira Irizarry
-//801237349
+//Emma Moreira Irizarry, 801237349, emmagmoreira2
 //Colaboraciones: Fernando Berrios y Kaleb Martinez
 
 
