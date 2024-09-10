@@ -51,7 +51,7 @@ int main()
 // Finding the amount paid to the distributors, gross minus the net
     Distributor= Gross - Net;
 
-// line of separation
+// Line Separation
 
     cout<< "------------------\n";
     
