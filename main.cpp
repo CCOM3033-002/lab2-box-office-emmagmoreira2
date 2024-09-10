@@ -61,7 +61,7 @@ int main()
     cout<< "Adult Tickets Sold: " << setw(15) <<adult_tickets << endl;
     cout<< "Child Tickets Sold: " << setw(15) <<child_tickets << endl;
     cout<< "Gross Box Office Profit: "<< setw(5) << "$"<< setprecision(2) << fixed << setw(8)<<Gross<< endl;
-    cout<< "Net Box Office Profit: "<< setw(7) << "$"<< setprecision(2) << setw(8)<< Net<< endl;
+    cout<< "Net Box Office Profit: " << setw(7) << "$"<< setprecision(2) << setw(8)<< Net<< endl;
     cout<< "Amount Paid to Distributor: " << setw(2)<< "$"<< setprecision(2) << setw(8) << Distributor<< endl;
 
     return 0;
