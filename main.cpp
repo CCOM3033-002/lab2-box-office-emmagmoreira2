@@ -60,9 +60,9 @@ int main()
     cout<< "Movie Name: " << setw(18) << '\"' << movie_name << '\"'<< endl;
     cout<< "Adult Tickets Sold: " << setw(15) << price_adult << endl;
     cout<< "Child Tickets Sold: " << setw(15) << price_child << endl;
-    cout<< "Gross Box Office Profit:    $"<< setw(9) << setprecision(2) << fixed <<Gross<< endl;
-    cout<< "Net Box Office Profit:      $" << setw(9) << setprecision(2) << fixed<< Net<< endl;
-    cout<< "Amount Paid to Distributor: $" << setw(9)<< setprecision(2) << fixed<< Distributor<< endl;
+    cout<< "Gross Box Office Profit: "<< "$"<< setw(9) << setprecision(2) << fixed <<Gross<< endl;
+    cout<< "Net Box Office Profit: " <<  "$"<< setw(9) << setprecision(2) << fixed<< Net<< endl;
+    cout<< "Amount Paid to Distributor: " <<  "$"<< setw(9)<< setprecision(2) << fixed<< Distributor<< endl;
 
     return 0;
     
